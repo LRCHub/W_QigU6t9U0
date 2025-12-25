@@ -1,0 +1,47 @@
+# Mariah Carey – Christmas (Baby Please Come Home) (Official Lyric Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:25.70] (Christmas) the snow's coming down
+[00:28.73] (Christmas) I'm watching it fall
+[00:32.01] (Christmas) watching the people around
+[00:35.16] (Christmas) baby, please come home
+[00:52.16] 
+[00:38.49] (Christmas) the church bells in town
+[00:41.57] (Christmas) they're ringing a song
+[00:44.79] (Christmas) oh, the happiest sound
+[00:47.94] (Christmas) baby, please come home
+[01:04.94] 
+[00:51.51] They're singing Deck the Halls
+[00:54.72] But it's not like Christmas at all
+[00:58.09] I remember when you were here
+[01:01.12] And all the fun we had last year
+[01:17.12] 
+[01:04.13] (Christmas) pretty lights on the tree
+[01:07.31] (Christmas) and I'm watching 'em shine
+[01:10.43] (Christmas) you should be here with me
+[01:13.65] (Christmas) baby, please come home (Christmas, Christmas)
+[01:23.11] (Christmas, Christmas)
+[01:34.11] 
+[01:29.93] They're singing Deck the Halls
+[01:33.13] But it's not like Christmas at all
+[01:36.36] I remember when you were here
+[01:39.43] And all the fun we had last year
+[01:55.43] 
+[01:42.46] (Christmas) if there was a way
+[01:45.61] (Christmas) I'd hold back these tears
+[01:48.90] (Christmas) but it's Christmas Day
+[01:51.96] (Christmas) baby, please come home (Christmas)
+[02:14.96] 
+[01:56.69] Home (Christmas)
+[02:01.79] Baby, please come home (Christmas)
+[02:04.76] Baby, please come home (Christmas)
+[02:07.95] Baby, please come home (Christmas)
+[02:11.15] Home (Christmas)
+[02:14.45] Baby, please come home (Christmas)
+[02:17.44] Baby, please come home (Christmas)
+[02:21.09] Baby, please come home (Christmas)
+[02:23.95] Baby, please come home (Christmas)
+[02:27.12] (Christmas, Christmas)
+```
