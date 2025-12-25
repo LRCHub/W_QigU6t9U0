@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Christmas (Baby Please Come Home) (Official Lyric Video)",
+  "base_artist": "Mariah Carey",
+  "createdAt": "2025-12-25T10:52:29.813057Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Christmas, Baby Please Come Home",
+      "artist": "Anberlin",
+      "has_synced": true,
+      "path": "select/01_Christmas,_Baby_Please_Come_Home_Anberlin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/02_Christmas_(Baby_Please_Come_Home)_U2.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Christmas, Baby Please Come Home",
+      "artist": "Anberlin",
+      "has_synced": false,
+      "path": "select/03_Christmas,_Baby_Please_Come_Home_Anberlin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/04_Christmas_(Baby_Please_Come_Home)_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/05_Christmas_(Baby_Please_Come_Home)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Hanson",
+      "has_synced": true,
+      "path": "select/06_Christmas_(Baby_Please_Come_Home)_Hanson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Broilers",
+      "has_synced": true,
+      "path": "select/07_Christmas_(Baby_Please_Come_Home)_Broilers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/08_Christmas_(Baby_Please_Come_Home)_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "KT Tunstall",
+      "has_synced": false,
+      "path": "select/09_Christmas_(Baby_Please_Come_Home)_KT_Tunstall.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Christmas, Baby Please Come Home",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/10_Christmas,_Baby_Please_Come_Home_U2.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Darlene Love",
+      "has_synced": true,
+      "path": "select/11_Christmas_(Baby_Please_Come_Home)_Darlene_Love.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Cain",
+      "has_synced": true,
+      "path": "select/12_Christmas_(Baby_Please_Come_Home)_Cain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/13_Christmas_(Baby_Please_Come_Home)_U2.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Bublé, Michael",
+      "has_synced": true,
+      "path": "select/14_Christmas_(Baby_Please_Come_Home)_Bublé,_Michael.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Michael Bubl�",
+      "has_synced": true,
+      "path": "select/15_Christmas_(Baby_Please_Come_Home)_Michael_Bubl�.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Mariah Carey",
+      "has_synced": false,
+      "path": "select/pl_01_Christmas_(Baby_Please_Come_Home)_Mariah_Carey.txt"
+    }
+  ]
+}
